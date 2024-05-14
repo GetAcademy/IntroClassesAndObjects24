@@ -1,0 +1,12 @@
+﻿Objekter ala JavaScript
+TextObject (farge, col, row, isInverted, text, case)
+Array, textObjects
+(Modellere typisk emne 2-app)
+Vise alle objektene
+Flytte inn i klassen som metoder
+Hva kan man gjør med et TextObject?
+Constructor
+
+
+
+Grønn understrek
